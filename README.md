@@ -8,11 +8,11 @@
     Inventory.java
     InventoryController.java
 
-Problem 1 : Status < Completed 50%>  I have created below files for this problem
+3. Problem 1 : Status < Completed 50%>  I have created below files for this problem
     ProductsService.java
     ProductsDTO.java
     ProductDTO.java
     Product.java
     ProductController
 
-I couldn't upload Jar file. Please review source code. 
+4. I couldn't upload Jar file. Please review source code. 
